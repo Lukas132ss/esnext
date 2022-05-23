@@ -1,1 +1,1 @@
-Tudo que estou aprendendo sobre ESNext
+Meu aprendizado sobre o ESNEXT
